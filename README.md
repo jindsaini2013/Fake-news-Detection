@@ -36,6 +36,11 @@ The following models were tested:
 - NLTK
 - Matplotlib (for plotting results)
 
+or 
+```bash
+pip install -r requirements.txt
+```
+
 ### 🚀 Future Work
 Integrate temporal and source metadata
 
